@@ -1,0 +1,175 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    font-family: 'Saira', sans-serif;
+    color:#282828;
+}
+.container{
+  width: 1400px;
+  margin: auto;
+}
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.col-1-2{
+  flex-basis: 50%;
+  padding: 15px;
+
+}
+.col-1-3{
+  flex-basis: 33.33%;
+  padding: 15px;
+
+}
+.line{
+  width: 100px;
+  background-color: #c6b481;
+  height: 2px;
+  display: block;
+  margin: 10px auto;
+
+}
+h1{
+  font-size: 45px;
+  font-weight: 400;
+}
+h2{
+}
+p{
+  font-size: 20px;
+}
+img{
+  max-width: 100%;
+}
+
+
+
+
+
+
+
+.headline{
+  background-color: #282828;
+  padding: 10px;
+
+}
+.headline p{
+  color: #c6b481;
+  text-align: center;
+  font-size: 16px;
+}
+.headline p strong{
+  margin-right: 15px;
+}
+
+
+.about-us-section{
+
+}
+.content{
+  padding: 50px 220px;
+  text-align: center;
+}
+.feature-section{
+  padding: 50px 0;
+}
+.feature-section h2{
+  font-weight: 400;
+  width: 170px;
+  font-size: 24px;
+  margin: 50px auto;
+}
+.gallery-section{
+  padding-bottom: 50px;
+
+}
+.gallery-content{
+  background-color: #282828;
+  padding: 115px 70px;
+
+}
+.gallery-content h3{
+  color: #c6b481;
+  margin: 10px;
+
+
+}
+.gallery-content p{
+  color: #fff;
+  font-size: 15px;
+  margin: 10px;
+}
+.gallery-content a{
+  color: #c6b481;
+  text-decoration: none;
+  margin: 10px;
+
+}
+.mission-section{
+
+}
+
+.headline-2{
+  background-color: #282828;
+  padding: 50px 0;
+
+}
+.headline-2 h4{
+  color: #c6b481;
+  font-size: 30px;
+  font-weight: 400;
+  width: 800px;
+  margin: auto;
+
+}
+.product-section{
+  padding: 80px 0;
+
+}
+.heading{
+  text-align: center;
+  margin: 50px;
+
+}
+.heading h2{
+  font-weight: 400;
+  font-size: 30px;
+
+}
+.product-box{
+  text-align: center;
+  background-color: #f3f0eb;
+  padding: 30px 0;
+
+}
+.product-box img{
+
+}
+.product-box h3{
+  color: #282828;
+
+}
+.product-box h4{
+  color: #282828;
+
+}
+.product-box a{
+  text-decoration: none;
+}
+.review{
+  display: flex;
+  justify-content:center ;
+
+}
+.review img{
+  width: 30px;
+  padding: 5px;
+
+}
+
+
